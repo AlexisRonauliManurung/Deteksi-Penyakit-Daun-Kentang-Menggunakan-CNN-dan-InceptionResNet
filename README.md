@@ -1,0 +1,1 @@
+# Deteksi-Penyakit-Daun-Kentang-Menggunakan-CNN-dan-InceptionResNet
